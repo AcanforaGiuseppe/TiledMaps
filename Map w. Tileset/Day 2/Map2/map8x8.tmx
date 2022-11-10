@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="desert" tilewidth="32" tileheight="32" spacing="1" margin="1" tilecount="48" columns="8">
+  <image source="../../Tileset/top-down-flat/tmw_desert_spacing.png" width="265" height="199"/>
+ </tileset>
+ <layer id="1" name="Livello tile 1" width="8" height="8">
+  <data encoding="csv">
+1,2,3,0,0,0,0,0,
+9,10,11,0,0,0,31,31,
+17,18,19,0,0,0,31,31,
+0,0,0,0,0,0,0,0,
+0,0,0,0,32,31,31,31,
+0,0,0,0,31,30,30,30,
+0,0,0,0,31,30,30,30,
+0,0,0,0,31,30,30,30
+</data>
+ </layer>
+</map>
